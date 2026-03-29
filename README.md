@@ -13,7 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kartikey-Sharma108&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Kartikey-Sharma108&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+![](https://camo.githubusercontent.com/fd6a0f20712a65e6e33bd3d1abb365bfc7db43c6666d0c0b56cc0cee4c2d2575/68747470733a2f2f6769746875622d74726f70686965732e76657263656c2e6170702f3f757365726e616d653d6b632d636f6e71756572732d636f64653131267468656d653d746f6b796f6e69676874266e6f2d6672616d653d7472756526726f773d3126636f6c756d6e3d36)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
